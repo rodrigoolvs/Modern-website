@@ -22,4 +22,14 @@ Brazilian Price: 300 Reais
 
 Contact me on Discord: malasisn#6469
 
-[https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_1.png](https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_1.png?raw=true)https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_1.png?raw=true
+Screenshots:
+
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_1.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_2.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_3.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_4.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_5.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_6.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_7.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_8.png
+https://github.com/rodrigoolvs/Modern-website/blob/main/Screenshot_9.png
